@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nepali Calender</string>
+
+    <string name="app_name_nepali">मिति</string>
+    <string name="less_than">〈</string>
+    <string name="greater_than">〉</string>
+</resources>
